@@ -39,6 +39,7 @@ public class Mentoria {
     }
 
     public int getCargaoraria() {
+        int cargaoraria;
         return cargaoraria;
     }
 
